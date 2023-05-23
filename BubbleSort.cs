@@ -23,7 +23,7 @@ class BubbleSort
     public static void Main()
     {
         string[] lines = File.ReadAllLines(
-            "C:\\Users\\eduar\\Documents\\Repos\\ConsoleTeste\\ConsoleTeste\\dataDUZENTOSMIL.txt"
+            "C:\\Users\\eduar\\Documents\\Repos\\ConsoleTeste\\ConsoleTeste\\dataTRINTAMIL.txt"
         );
         int[] numeros = new int[lines.Length];
 
