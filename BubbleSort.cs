@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-class BubbleSort
+public class BubbleSort
 {
     void MetodoBubbleSort(int[] array)
     {

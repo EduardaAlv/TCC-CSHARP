@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-class SelectionSort
+public class SelectionSort
 {
     void MetodoSelectionSort(int[] array)
     {

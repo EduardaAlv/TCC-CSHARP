@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-class InsertionSort
+public class InsertionSort
 {
     void MetodoInsertionSort(int[] array)
     {

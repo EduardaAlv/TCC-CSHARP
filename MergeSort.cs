@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-class MergeSort
+public class MergeSort
 {
     void merge(int[] array, int indiceInicio, int meio, int indiceFinal)
     {

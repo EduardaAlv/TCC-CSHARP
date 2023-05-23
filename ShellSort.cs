@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-class ShellSort
+public class ShellSort
 {
     void MetodoShellSort(int[] array)
     {
