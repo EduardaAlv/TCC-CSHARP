@@ -1,0 +1,5 @@
+C:\Users\eduar\TCC-CSHARP\obj\Debug\net7.0\TCC-CSHARP.csproj.AssemblyReference.cache
+C:\Users\eduar\TCC-CSHARP\obj\Debug\net7.0\TCC-CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\TCC-CSHARP\obj\Debug\net7.0\TCC-CSHARP.AssemblyInfoInputs.cache
+C:\Users\eduar\TCC-CSHARP\obj\Debug\net7.0\TCC-CSHARP.AssemblyInfo.cs
+C:\Users\eduar\TCC-CSHARP\obj\Debug\net7.0\TCC-CSHARP.csproj.CoreCompileInputs.cache
